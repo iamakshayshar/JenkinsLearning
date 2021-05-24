@@ -6,7 +6,7 @@ public class SampleTest {
 
 	@Test
 	public void testProgram() {
-		String someWorld = "World";
+		String someWorld = "Worlds";
 
 		if ("World".equalsIgnoreCase(someWorld)) {
 			System.out.println("Equals");
