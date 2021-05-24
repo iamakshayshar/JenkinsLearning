@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.learning.SampleTest" duration-ms="63" started-at="2021-05-24T05:35:19Z" finished-at="2021-05-24T05:35:19Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="63" started-at="2021-05-24T05:35:19Z" finished-at="2021-05-24T05:35:19Z">
+      <class name="com.learning.SampleTest">
+        <test-method status="PASS" signature="testProgram()[pri:0, instance:com.learning.SampleTest@c818063]" name="testProgram" duration-ms="14" started-at="2021-05-24T05:35:19Z" finished-at="2021-05-24T05:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProgram -->
+      </class> <!-- com.learning.SampleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.learning.SampleTest -->
+</testng-results>
