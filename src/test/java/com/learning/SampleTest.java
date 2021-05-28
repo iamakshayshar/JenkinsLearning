@@ -7,7 +7,7 @@ public class SampleTest {
 
 	@Test
 	public void testProgram() {
-		String someWorld = "Worlds";
+		String someWorld = "World";
 
 		Assert.assertEquals("World", someWorld);
 	}
